@@ -1,0 +1,1 @@
+# Projeto feito no bootcamp CriptoDev da Gama Academy, é um buscador de imagens consumindo a API do flickr, na linguagem js.

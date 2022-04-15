@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Anybody:wght@300&family=Roboto:ital,wght@0,400;0,500;1,300&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+html, body{
+    box-sizing: border-box;
+    background-image: url('https://steamuserimages-a.akamaihd.net/ugc/940586530515504757/CDDE77CB810474E1C07B945E40AE4713141AFD76/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false');
+    background-repeat: repeat;
+    background-size: cover;
+    height: 100%;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+}
+
+.titulo{
+    text-align: center;
+}
+
+.search-input{
+    align-items: center;
+    text-align: center;
+    width: 600px;
+    height:20px;
+    border-radius: 10px;
+    padding: 3px;
+    margin: 3px;
+}
+
+.form-div{
+    display:flex;
+    justify-content: center;
+}
+
+#botao{
+    text-align:center;
+}
+
+.get-results--button{
+    width:300px;
+    cursor:pointer;
+    border-radius: 10px;
+    padding: 3px;
+ } 
+
+#load-text{
+    text-align: center;
+}
+
+#results{
+    text-align: center;
+    justify-content: center;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(12, 9, 9);
+    color: white;
+    text-align: center;
+  }  
